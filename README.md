@@ -12,7 +12,7 @@ Duplicates check, assigned value labels to the string variables "Marital Status"
 
 --Aggregation--
 
-Generated 4 age groups using a nested if formula upon the "Age" column.
+Generated 4 age groups using a nested IF formula upon the "Age" column.
 
 -Analysis-
 
