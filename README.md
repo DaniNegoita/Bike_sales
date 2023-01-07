@@ -16,4 +16,4 @@ Generated 4 age groups using a nested IF formula upon the "Age" column.
 
 -Analysis-
 
-Visual analysis upon bar, line, and pie plots. To unlock further insights, Slicers based on Gender, Marital Status and Number of Cars were added. 
+Visual analysis using bar, line, and pie plots built upon pivot tables. To unlock further insights, Slicers based on Gender, Marital Status and Number of Cars were added. 
