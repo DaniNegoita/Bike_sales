@@ -3,12 +3,15 @@
 
 Overview
 
+This dynamic dashboard takes inspiration from @AlexTheAnalyst project in Excel. I took up a Customer Segmentation approach by looking at demographic attributes (e.g., age) and behaviors (e.g. cars ownership). Use case examples: inform brand’s reach out to various customer segments, create new products, increase customers’ loyalty. 
 
 Workflow Steps 
 
 --Cleaning--
 
-Duplicates check, assigned value labels to the string variables "Marital Status" and "Gender", removed irrelevant columns. 
+1. Duplicates check
+2. Assigned value labels to the string variables "Marital Status" and "Gender"
+3. Removed irrelevant columns. 
 
 --Aggregation--
 
